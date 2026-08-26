@@ -1,0 +1,9 @@
+D:\Kuliah\File\Visual Studio\SECSGEM Assesment\MachineSimulatorB\bin\Debug\MachineSimulatorB.exe.config
+D:\Kuliah\File\Visual Studio\SECSGEM Assesment\MachineSimulatorB\bin\Debug\MachineSimulatorB.exe
+D:\Kuliah\File\Visual Studio\SECSGEM Assesment\MachineSimulatorB\bin\Debug\MachineSimulatorB.pdb
+D:\Kuliah\File\Visual Studio\SECSGEM Assesment\MachineSimulatorB\bin\Debug\Newtonsoft.Json.dll
+D:\Kuliah\File\Visual Studio\SECSGEM Assesment\MachineSimulatorB\bin\Debug\Newtonsoft.Json.xml
+D:\Kuliah\File\Visual Studio\SECSGEM Assesment\MachineSimulatorB\obj\Debug\MachineSimulatorB.csproj.CoreCompileInputs.cache
+D:\Kuliah\File\Visual Studio\SECSGEM Assesment\MachineSimulatorB\obj\Debug\MachineSimulatorB.csproj.CopyComplete
+D:\Kuliah\File\Visual Studio\SECSGEM Assesment\MachineSimulatorB\obj\Debug\MachineSimulatorB.exe
+D:\Kuliah\File\Visual Studio\SECSGEM Assesment\MachineSimulatorB\obj\Debug\MachineSimulatorB.pdb
